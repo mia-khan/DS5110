@@ -8,20 +8,19 @@ This project is maintained and contributed to by Mia Khan and Onn Ye Young.
 
 ### Repository Navigation
 Project Progress Tracker:
-* [Project Tracker](docs/DS 5110 Final Project Progress Tracker)
+* [Project Tracker](docs/DS_5110_Final_Project_Progress_Tracker)
 
 Project Ideation:
-* [Iteration 1](docs/DS5110 Final Project Iteration 1.pdf)
+* [Iteration 1](docs/DS5110_Final_Project_Iteration_1.pdf)
 * [Iteration 2](docs/DS_5110_Iteration_2.pdf)
 
 Database Setup:
-* [DPCA Dataset](docs/DS 5110 DPCA Data.xlsx)
-* [Database ERD](docs/DS 5110 Final Project ERD.pdf)
+* [DPCA Dataset](docs/DS_5110_DPCA_Data.xlsxx)
+* [Database ERD](docs/DS_5110_Final_Project_ERD.pdf)
 * [DPCA Database in SQLite3](docs/DPCA.db)
 
 Data Integration:
-* [Google Colab Link for Data Cleaning, Standardization, Transformation, and Validation](docs/DS 5110 Colab Link for Data Integration)
+* [Google Colab Link for Data Cleaning, Standardization, Transformation, and Validation](docs/DS_5110_Colab_Link_for_Data_Integration)
 
 Data Visualization:
-* [Data Visualization Plan](docs/DS 5110 Data Visualization Plan.pdf)
-
+* [Data Visualization Plan](docs/DS_5110_Data_Visualization_Plan.pdf)
