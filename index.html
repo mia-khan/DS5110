@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Diabetes Dataset Analysis</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background-color: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .plot-section {
+            margin-bottom: 40px;
+        }
+        .plot-container {
+            text-align: center;
+            margin: 20px 0;
+        }
+        .plot-container img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 5px;
+            box-shadow: 0 0 5px rgba(0,0,0,0.2);
+        }
+        .description {
+            padding: 15px;
+            background-color: #f8f9fa;
+            border-radius: 5px;
+            margin-top: 10px;
+        }
+        .nav-buttons {
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+        button {
+            padding: 10px 20px;
+            background-color: #3498db;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+        button:hover {
+            background-color: #2980b9;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1> Diabetes Dataset Analysis Dashboard</h1>
+        <div class="nav-buttons">
+            <button onclick="showPlot(1)">Glucose Distribution</button>
+            <button onclick="showPlot(2)">Age vs BMI</button>
+            <button onclick="showPlot(3)">Blood Pressure Analysis</button>
+            <button onclick="showPlot(4)">Feature Relationships</button>
+            <button onclick="showPlot(5)">Average Glucose Levels by Outcome</button>
+        </div>
+
+        <div id="plot-display" class="plot-container">
+            <img src="{{ url_for('static', filename='plot1.png') }}" alt="Plot 1" id="current-plot">
+        </div>
+
+        <div id="plot-description" class="description">
+            <h3>Glucose Distribution</h3>
+            <p>This plot shows the distribution of glucose levels in the dataset. The bell curve indicates the normal distribution of glucose measurements across the population.</p>
+        </div>
+    </div>
+
+    <script>
+        function showPlot(plotNumber) {
+            const plotDisplay = document.getElementById('current-plot');
+            const descriptionDiv = document.getElementById('plot-description');
+
+            plotDisplay.src = `/static/plot${plotNumber}.png`;
+
+            // Update description based on plot number
+            const descriptions = {
+                1: {
+                    title: "Glucose Distribution",
+                    text: "This plot shows the distribution of glucose levels in the dataset. The bell curve indicates the normal distribution of glucose measurements across the population."
+                },
+                2: {
+                    title: "Age vs BMI Scatter Plot",
+                    text: "This scatter plot visualizes the relationship between age and BMI, with points colored by diabetes outcome. It helps identify any patterns between these variables and diabetes status."
+                },
+                3: {
+                    title: "Blood Pressure Analysis",
+                    text: "This boxplot compares blood pressure distributions between diabetic and non-diabetic patients, showing the median, quartiles, and potential outliers."
+                },
+                4: {
+                    title: "Feature Relationships",
+                    text: "The pair plot shows relationships between multiple variables simultaneously, helping identify patterns and correlations between different features."
+                },
+                5: {
+                    title: "Average Glucose Levels by Outcome",
+                    text: "This bar plot compares the average glucose levels between individuals with and without diabetes, illustrating the difference in glucose levels across these groups."
+                }
+            };
+
+            descriptionDiv.innerHTML = `
+                <h3>${descriptions[plotNumber].title}</h3>
+                <p>${descriptions[plotNumber].text}</p>
+            `;
+        }
+    </script>
+</body>
+</html>
+
+
