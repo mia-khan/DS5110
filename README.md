@@ -26,11 +26,5 @@ Data Visualization:
 * [Data Visualization Plan](DS_5110_Data_Visualization_Plan.pdf)
 * Refer to the Colab Link in the "Data Integration" for Data Visualization code
 
-Data Analysis:
-* [Queries in SQL and Python]()
-
 Final Presentation:
 * [PowerPoint Slides](Presentation_PowerPoint_Link)
-
-Technical Report:
-* [Technical Report]()
