@@ -26,5 +26,7 @@ Data Visualization:
 * [Data Visualization Plan](DS_5110_Data_Visualization_Plan.pdf)
 * Refer to the Colab Link in the "Data Integration" for Data Visualization code
 
-Final Presentation:
+Final Iteration:
 * [PowerPoint Slides](Presentation_PowerPoint_Link)
+* [Technical Report](DS_5110_Technical_Report.pdf)
+* [Code (Link to Google Colab)](DS_5110_Colab_Link_for_Data_Integration)
