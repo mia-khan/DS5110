@@ -21,6 +21,7 @@ Database Setup:
 
 Data Integration:
 * [Google Colab Link for Data Cleaning, Standardization, Transformation, Validation, and Visualization](DS_5110_Colab_Link_for_Data_Integration)
+* [Cleaned Database](Cleaned_DPCA.db)
 
 Data Visualization:
 * [Data Visualization Plan](DS_5110_Data_Visualization_Plan.pdf)
