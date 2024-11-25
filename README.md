@@ -25,7 +25,11 @@ Data Integration:
 
 Data Visualization:
 * [Data Visualization Plan](DS_5110_Data_Visualization_Plan.pdf)
-* Refer to the Colab Link in the "Data Integration" for Data Visualization code
+* Refer to the Colab Link in the "Data Integration" section for Data Visualization code
+
+Data Analysis:
+* [SQL Query Report List](SQL_Query_Reports/DS5110_SQL_Query_Report_List.pdf)
+* [SQL Query Reports](SQL_Query_Reports)
 
 Final Iteration:
 * [PowerPoint Slides](Presentation_PowerPoint_Link)
