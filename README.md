@@ -20,7 +20,7 @@ Database Setup:
 * [DPCA Database in SQLite3](DPCA.db)
 
 Data Integration:
-* [Google Colab Link for Data Integration](DS_5110_Colab_Link_for_Data_Integration)
+* [Google Colab Link for Data Integration](DS_5110_Colab_Link)
 * [Cleaned Database](Cleaned_DPCA.db)
 
 Data Visualization:
@@ -36,4 +36,4 @@ Data Analysis:
 Final Iteration:
 * [PowerPoint Slides](Presentation_PowerPoint_Link)
 * [Technical Report](DS_5110_Technical_Report.pdf)
-* [Code (Link to Google Colab)](DS_5110_Colab_Link_for_Data_Integration)
+* [Code (Link to Google Colab)](DS_5110_Colab_Link)
