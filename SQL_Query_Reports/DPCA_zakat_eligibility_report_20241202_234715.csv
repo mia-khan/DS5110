@@ -1,0 +1,82 @@
+Patient_ID,Patient_Name,Religion,Syed_NonSyed,Is_Eligible,Eligibility_Criteria,Monthly_Income,Properties_Owned,Aid_Type
+1,Zaur Hussain,Muslim (Shia),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc)",2500.0,0,Zakat Funds
+2,Sumera,Muslim (Sunni),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc)",15000.0,0,Zakat Funds
+3,Muhammad Shafiq,Muslim (Sunni),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc)",15000.0,0,Zakat Funds
+4,Fehmeeda,Muslim (Sunni),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc)",15000.0,1,Zakat Funds
+5,Fehmeeda,Muslim (Sunni),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc)",2500.0,1,Zakat Funds
+6,M.Ahmed,Muslim (Sunni),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc), Signed declaration",2500.0,0,Zakat Funds
+7,Gul Khatoon,Muslim (Sunni),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc), Signed declaration",2500.0,0,Zakat Funds
+8,Parveen,Muslim (Sunni),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc), Signed declaration",2500.0,0,Zakat Funds
+9,Gohar Taj,Muslim (Sunni),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc), Signed declaration",2500.0,0,Zakat Funds
+10,Sajid Mehmood,Muslim (Sunni),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc), Signed declaration",0.0,1,Zakat Funds
+11,Zahida Afzal ,Muslim (Sunni),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc), Signed declaration",15000.0,0,Zakat Funds
+13,Poonam ,Muslim (Sunni),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc), Signed declaration",2500.0,1,Zakat Funds
+14,Shamim Rasheed,Muslim (Sunni),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc)",15000.0,0,Zakat Funds
+15,shazia,Muslim (Sunni),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc), Signed declaration",2500.0,0,Zakat Funds
+16,Abdul Rasool,Muslim (Sunni),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc), Signed declaration",15000.0,0,Zakat Funds
+17,M Sabir,Muslim (Sunni),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc), Signed declaration",15000.0,0,Zakat Funds
+18,M Sabir,Muslim (Sunni),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc), Signed declaration",15000.0,0,Zakat Funds
+19,Abdul Rehman,Muslim (Sunni),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc), Signed declaration",2500.0,0,Zakat Funds
+20,Husn Bano,Muslim (Sunni),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc), Signed declaration",2500.0,0,Zakat Funds
+21,Owais javed,Muslim (Sunni),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc), Signed declaration",2500.0,0,Zakat Funds
+22,Muhammad Azaan,Muslim (Other),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc)",2500.0,1,Zakat Funds
+23,shazia,Muslim (Sunni),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc), Signed declaration",2500.0,0,Zakat Funds
+24,Nafeesa bagum,Muslim (Sunni),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc), Signed declaration",15000.0,0,Zakat Funds
+25,Lal khatoon,Muslim (Sunni),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc), Signed declaration",15000.0,1,Zakat Funds
+28,Anila,Muslim (Sunni),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc), Signed declaration",0.0,0,Zakat Funds
+31,Javeria ,Muslim (Sunni),Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc), Signed declaration",2500.0,0,Zakat Funds
+33,Rani,Muslim (Sunni),Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc), Signed declaration",2500.0,0,Zakat Funds
+34,WAQAR HUSSAIN,Muslim (Sunni),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc), Signed declaration",2500.0,0,Zakat Funds
+35,Reema khalid,Muslim (Sunni),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc), Signed declaration",15000.0,1,Zakat Funds
+41,Murad Fatima,Muslim (Other),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc), Signed declaration",2500.0,0,Zakat Funds
+42,Ashiq Ali,Muslim (Sunni),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc), Signed declaration",15000.0,1,Zakat Funds
+46,Shahnawaz,Muslim (Sunni),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc), Signed declaration",15000.0,0,Zakat Funds
+47,Muzammil,Muslim (Sunni),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc)",2500.0,0,Zakat Funds
+48,Waheed,Muslim (Sunni),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc), Signed declaration",15000.0,0,Zakat Funds
+49,Muzammil,Muslim (Sunni),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc)",2500.0,0,Zakat Funds
+50,Kiran,Muslim (Sunni),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc), Signed declaration",15000.0,0,Zakat Funds
+53,Farzana,Muslim (Sunni),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc), Signed declaration",15000.0,0,Zakat Funds
+55,Shamim bibi,Muslim (Other),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc), Signed declaration",15000.0,1,Zakat Funds
+56,Naseem khatun,Muslim (Sunni),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc), Signed declaration",15000.0,0,Zakat Funds
+58,Rafia,Muslim (Other),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc), Signed declaration",15000.0,0,Zakat Funds
+59,Nusrat,Muslim (Shia),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc), Signed declaration",15000.0,0,Zakat Funds
+60,Asad,Muslim (Sunni),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc), Signed declaration",2500.0,0,Zakat Funds
+61,Saleha,Muslim (Sunni),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc), Signed declaration",0.0,0,Zakat Funds
+62,Baby Dua,Muslim (Sunni),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc), Signed declaration",15000.0,0,Zakat Funds
+63,Sumaira ,Muslim (Sunni),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc), Signed declaration",2500.0,0,Zakat Funds
+64,Muskan,Muslim (Sunni),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc), Signed declaration",15000.0,0,Zakat Funds
+65,Aqsa ,Muslim (Sunni),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc), Signed declaration",15000.0,0,Zakat Funds
+68,Shahnawaz,Muslim (Sunni),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc), Signed declaration",15000.0,1,Zakat Funds
+69,AMNA,Muslim (Sunni),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc), Signed declaration",2500.0,0,Zakat Funds
+70,Shahnaz,Muslim (Sunni),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc), Signed declaration",15000.0,0,Zakat Funds
+71,Asia,Muslim (Sunni),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc), Signed declaration",0.0,0,Zakat Funds
+72,Seema bibi,Muslim (Sunni),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc), Signed declaration",2500.0,0,Zakat Funds
+73,Peer bux,Muslim (Sunni),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc), Signed declaration",15000.0,0,Zakat Funds
+74,Mohammed rizwan ,Muslim (Sunni),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc), Signed declaration",2500.0,1,Zakat Funds
+75,Farzana,Muslim (Sunni),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc), Signed declaration",15000.0,0,Zakat Funds
+76,TaJ BIBI,Muslim (Sunni),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc), Signed declaration",15000.0,0,Zakat Funds
+79,Vishal and shaswati ,Muslim (Sunni),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc), Signed declaration",15000.0,0,Zakat Funds
+80,Naseer ud din,Muslim (Sunni),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc), Signed declaration",0.0,0,Zakat Funds
+85,Fameeda ,Muslim (Sunni),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc), Signed declaration",15000.0,0,Zakat Funds
+86,Muhammad Afzal,Muslim (Sunni),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc), Signed declaration",2500.0,0,Zakat Funds
+88,Nusrat,Muslim (Shia),Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc), Signed declaration",15000.0,0,Zakat Funds
+89,Samerah Fazal gul,Muslim (Other),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc), Signed declaration",2500.0,0,Zakat Funds
+91,Razia qaisar,Muslim (Sunni),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc), Signed declaration",15000.0,0,Zakat Funds
+93,Kousar,Muslim (Sunni),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc)",2500.0,0,Zakat Funds
+94,Pathani,Muslim (Sunni),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc), Signed declaration",2500.0,0,Zakat Funds
+96,Rida Batool,Muslim (Shia),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc), Signed declaration",15000.0,0,Zakat Funds
+99,Abdul Ahad,Muslim (Sunni),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc), Signed declaration",15000.0,0,Zakat Funds
+100,Ayaz ,Muslim (Sunni),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc), Signed declaration",15000.0,0,Zakat Funds
+103,Sayed Ali Baloch ,Muslim (Other),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc), Signed declaration",15000.0,0,Zakat Funds
+104,Muhammad Ismail ,Muslim (Sunni),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc), Signed declaration",37500.0,0,Zakat Funds
+106,Yaseen,Muslim (Sunni),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc), Signed declaration",15000.0,0,Zakat Funds
+107,Muhammad khan,Muslim (Sunni),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc), Signed declaration",0.0,0,Zakat Funds
+108,Mohomed sajid,Muslim (Other),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc), Signed declaration",15000.0,0,Zakat Funds
+109,ayesha manahil,Muslim (Sunni),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc), Signed declaration",0.0,0,Zakat Funds
+112,Bismillah,Muslim (Sunni),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc), Signed declaration",0.0,0,Zakat Funds
+114,Nazma ,Muslim (Sunni),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc)",15000.0,0,Zakat Funds
+116,Khifayatullah,Muslim (Other),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc), Signed declaration",15000.0,2,Zakat Funds
+120,Muslim ,Muslim (Shia),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc), Signed declaration",15000.0,0,Zakat Funds
+121,rida batool,Muslim (Shia),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc), Signed declaration",15000.0,0,Zakat Funds
+123,Laila,Muslim (Sunni),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc), Signed declaration",15000.0,0,Zakat Funds
+124,Rana Sher Dil,Muslim (Sunni),Non-Syed,1,"Muslim, Non-syed, Does not own an equivalence of 52.5 tola silver (Gold, Silver, Land, etc)",2500.0,0,Zakat Funds
