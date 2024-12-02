@@ -20,16 +20,18 @@ Database Setup:
 * [DPCA Database in SQLite3](DPCA.db)
 
 Data Integration:
-* [Google Colab Link for Data Cleaning, Standardization, Transformation, Validation, and Visualization](DS_5110_Colab_Link_for_Data_Integration)
+* [Google Colab Link for Data Integration](DS_5110_Colab_Link_for_Data_Integration)
 * [Cleaned Database](Cleaned_DPCA.db)
 
 Data Visualization:
 * [Data Visualization Plan](DS_5110_Data_Visualization_Plan.pdf)
 * Refer to the Colab Link in the "Data Integration" section for Data Visualization code
+* [Dashboard .py for Interactive Visualizations](DPCA_dashboard.py)
 
 Data Analysis:
 * [SQL Query Report List](SQL_Query_Reports/DS5110_SQL_Query_Report_List.pdf)
 * [SQL Query Reports](SQL_Query_Reports)
+* Refer to the Colab Link in the "Data Integration" section for SQL Query code
 
 Final Iteration:
 * [PowerPoint Slides](Presentation_PowerPoint_Link)
