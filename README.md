@@ -38,7 +38,7 @@ Final Iteration:
 * [Technical Report](DS_5110_Technical_Report.pdf)
 * [Code (Link to Google Colab)](DS_5110_Colab_Link)
 
-Final Submission:
+**Final Submission:**
 * [Final Presentation](Presentation_PowerPoint_Link)
 * [Final Technical Report](DS_5110_Final_Technical_Report.pdf)
 * [Final Code](DS_5110_Colab_Link)
